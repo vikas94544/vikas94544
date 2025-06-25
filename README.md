@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Devops**
 
-- 👨‍💻 All of my projects are available at [On my github](On my github)
+- 👨‍💻 All of my projects are available at [GITHUB](GITHUB)
 
 - 💬 Ask me about **Devops**
 
